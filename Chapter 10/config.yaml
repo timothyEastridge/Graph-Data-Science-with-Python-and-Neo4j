@@ -1,0 +1,3 @@
+neo4j_db_uri: 'bolt://localhost:7687'
+neo4j_user: 'neo4j'
+neo4j_pw: 'neo4j12345'
