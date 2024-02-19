@@ -77,4 +77,4 @@ if __name__ == '__main__':
     main()
 
 
-# streamlit run streamlit_for_patents_v2.py
+# streamlit run streamlit_for_patents.py

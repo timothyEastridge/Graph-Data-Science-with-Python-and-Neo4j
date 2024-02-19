@@ -1,0 +1,20 @@
+full_name,ssn,ip_address,email,phone_number,address,suspicious_activity_report,FBI_case_number
+John Doe,123-45-6789,192.168.1.100,johndoe@email.com,(555) 555-1234,1234 Main St Washington D.C. DC,,
+Jane Smith,987-65-4321,192.168.1.101,janesmith@email.com,(555) 555-5678,5678 Elm St New York NY,68789,98544
+Michael Johnson,456-78-9012,192.168.1.102,michaeljohnson@email.com,(555) 555-4321,4321 Oak St Los Angeles CA,68789,784566
+Emily Williams,789-01-2345,192.168.1.103,emilywilliams@email.com,(555) 555-7890,7890 Maple St Chicago IL,,
+David Brown,234-56-7890,192.168.1.104,davidbrown@email.com,(555) 555-2468,2468 Birch St Miami FL,,98544
+Sarah Taylor,678-90-1234,192.168.1.105,sarahtaylor@email.com,(555) 555-1357,1357 Cedar St Dallas TX,68789,
+James Davis,890-12-3456,192.168.1.106,jamesdavis@email.com,(555) 555-9876,9876 Pine St San Francisco CA,,784566
+Olivia Anderson,567-89-0123,192.168.1.107,oliviaanderson@email.com,(555) 555-5432,5432 Willow St Boston MA,,
+Liam Wilson,901-23-4567,192.168.1.108,liamwilson@email.com,(555) 555-2109,2109 Oakwood St Denver CO,68789,98544
+Emma Thompson,345-67-8901,192.168.1.109,emmathompson@email.com,(555) 555-1010,1010 Maplewood St Atlanta GA,,
+Grace Jackson,123-45-6789,192.168.1.100,grace.jackson@email.com,(555) 555-1234,1234 Main St Washington D.C. DC,,
+Oliver Harris,987-65-4321,192.168.1.101,oliver.harris@email.com,(555) 555-5678,5678 Elm St New York NY,,784566
+Ethan Patel,789-01-2345,192.168.1.102,ethanpatel@email.com,(555) 555-5679,1234 Oak St Chicago IL,68789,
+Olivia Green,234-56-7890,192.168.1.103,oliviagreen@email.com,(555) 555-5680,5678 Maple Dr Los Angeles CA,,
+Liam Chen,987-65-4321,192.168.1.104,liamchen@email.com,(555) 555-5681,9101 Main St Houston TX,,
+Ava Jones,123-45-6789,192.168.1.105,avajones@email.com,(555) 555-5682,2468 Elm Ave New York NY,,
+Jackson Singh,456-78-9012,192.168.1.106,jacksonsing@email.com,(555) 555-5683,1357 Pine Blvd Miami FL,,
+Mia Rodriguez,567-89-0123,192.168.1.107,miarodriguez@email.com,(555) 555-5684,369 Walnut Ln Seattle WA,68789,
+Lucas Kim,901-23-4567,192.168.1.108,lucaskim@email.com,(555) 555-5685,1010 Cedar Rd Atlanta GA,,98544
